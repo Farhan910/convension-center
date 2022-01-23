@@ -1,0 +1,48 @@
+
+.possition{
+    position: absolute;
+    top: 390px;
+    right: 350px;
+    color: white;
+    
+    
+}
+.possition h1{
+    text-align: center;
+    font-weight: 600;
+    font-size: 48px;
+    
+}
+.possition p{
+    text-align: center;
+}
+.possition button {
+    position: absolute;
+    right: 270px;
+    background-color:#F94892;
+    font-weight: 700;
+   
+    
+}
+.card button{
+    background-color:#ddbac9 ;
+    color:#F94892;
+    width: 200px;
+    height: 40px;
+}
+.card-body i {
+    background-color: #ddbac9;
+    border-radius:50%;
+    color: white;
+   
+    
+    
+}
+.card-body span{
+    color:gray;
+}
+
+
+
+
+
