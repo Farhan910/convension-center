@@ -1,9 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
 
+body {
+    font-family: 'Rubik', sans-serif !important;
+    
+}
 .possition{
     position: absolute;
     top: 390px;
     right: 350px;
     color:rgb(46, 60, 73);
+    
 
     
     
