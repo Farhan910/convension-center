@@ -118,6 +118,10 @@ footer .ft-text  {
     
 }
 
+#test-1{
+    margin-top: 120px;
+}
+
 @media only screen and (max-width:668px){
     .special{
         position: relative;
@@ -128,7 +132,7 @@ footer .ft-text  {
     }
 
 }
-}
+
     
 
 
